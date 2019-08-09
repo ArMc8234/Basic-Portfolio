@@ -77,23 +77,26 @@ h2 {
     margin-bottom: 5px;
 }
 
-.Profile {
-    float: left;
-    margin: 5px; 
+#namefield {
+    padding: 10px;
+    border: 2px solid;
+    margin: 10px;
+    border-color: #777777
 }
-/* .wrapper1 {
-    float: left;
-    position: relative;
-    left: 5px; */
-/* } */
 
-/* #description {
-    clear: left;
-} */
+#emailfield {
+    padding: 10px;
+    border: 2px solid;
+    margin: 10px;
+    border-color: #777777
+}
 
-/* p {
-    clear: left;
-} */
+#msgfield {
+    padding: 60px;
+    border: 2px solid;
+    margin: 10px;
+    border-color: #777777;
+}
 
 footer {
     padding: 20px;
